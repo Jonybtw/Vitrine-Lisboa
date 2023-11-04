@@ -1,6 +1,6 @@
 # vitrinelisboa-galeria
-Gallery type website made with HTML, CSS, JS
-See it here: https://jonybtw.github.io/
+Gallery type website made with HTML, CSS, JS<br>
+Try it here: https://jonybtw.github.io/
 
 
 
